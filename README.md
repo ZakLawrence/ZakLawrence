@@ -1,6 +1,9 @@
 ## Hi there 👋
 I'm currently working as a Postdoctoral Researcher on the [CMS](https://cms.cern) experiment at [CERN](https://home.cern)! I'm based at [UCLouvain](https://www.uclouvain.be/en) in Belgium, where I work a memeber of [CP3](https://cp3.irmp.ucl.ac.be/public/member/814/en) on measurements targeting the interaction between the top quark and Higgs boson.  
 
+## :briefcase: Profesional History
+Perviously I worked as a PhD student at the University of Manchester doing research into the CP properties of the top-Higgs coupling using data collected by the ATLAS experiment. Within this role I worked as one of the lead analysers of the first measurement performed at the LHC of the CP properties in the channel where the Higgs decays to a pair of bottom quarks. 
+- [Phys. Lett. B 849 (2024) 138469](https://www.sciencedirect.com/science/article/pii/S0370269324000285/pdf)
 
 <!--
 **ZakLawrence/ZakLawrence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
